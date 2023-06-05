@@ -1,0 +1,16 @@
+export const REQUEST = "REQUEST";
+
+export const REQUEST_FAILURE = "REQUEST_FAILURE";
+
+export const ADD_CART_DATA = "ADD_CART_DATA";
+
+export const GET_CART_DATA = "GET_CART_DATA";
+
+export const DELETE_CART_DATA = "DELETE_CART_DATA";
+
+
+export const ADD_WISHLIST_DATA = "ADD_WISHLIST_DATA";
+
+export const GET_WISHLIST_DATA = "GET_WISHLIST_DATA";
+
+export const DELETE_WISHLIST_DATA = "DELETE_WISHLIST_DATA";
