@@ -46,58 +46,58 @@ npm run deploy
 
 ### 1. Login
 
-<img width="947" alt="Login" src="">
+<img width="947" alt="Login" src="https://github-production-user-asset-6210df.s3.amazonaws.com/115460581/243560900-1e8ee317-5a1d-4de0-860c-09030fd9a99b.png">
 
 ### 2. Signup
 
-<img width="946" alt="image" src="">
+<img width="946" alt="image" src="https://github.com/Nandha2403/CrocsWorld/assets/115460581/48e603fc-a36d-4528-bc00-678a12060e88">
 
 ### 3. Homepage
 
-<img width="945" alt="image" src="">
+<img width="945" alt="image" src="https://github.com/Nandha2403/CrocsWorld/assets/115460581/5765db31-65eb-4e8b-b49e-ecd5a99138e2">
 
 ### 4. Products Page
 
-<img width="947" alt="image" src="">
+<img width="947" alt="image" src="https://github.com/Nandha2403/CrocsWorld/assets/115460581/f29f513c-3a1e-4900-a76b-ab7d6dfaa33b">
 
 ### 5. Signle Product Page
 
-<img width="946" alt="image" src="">
+<img width="946" alt="image" src="https://github.com/Nandha2403/CrocsWorld/assets/115460581/ab7a4608-71bb-4647-aaf7-d601dcd1db82">
 
 
 ### 6. Wishlist Page
 
-<img width="947" alt="image" src="">
+<img width="947" alt="image" src="https://github.com/Nandha2403/CrocsWorld/assets/115460581/911f0d6c-e7ec-4ef5-8172-a8e519d0e666">
 
 ### 7. Cart Page
 
-<img width="947" alt="image" src="">
+<img width="947" alt="image" src="https://github.com/Nandha2403/CrocsWorld/assets/115460581/1687c20e-1047-4174-8700-8481f08113d3">
 
 ### 8. Payment Success Page
 
-<img width="946" alt="PaymentSuccess" src="">
+<img width="946" alt="PaymentSuccess" src="https://github.com/Nandha2403/CrocsWorld/assets/115460581/f66cfc0e-def7-4dcf-b109-84394fb05500">
 
 
 ### 9. Not Found Page
 
-<img width="948" alt="image" src="">
+<img width="948" alt="image" src="https://github.com/Nandha2403/CrocsWorld/assets/115460581/f2966740-3590-4161-9b1e-47344b5915cd">
 
 
 
 
-<!-- ## Run Locally
+## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/uzairansari11/native-order-609.git
+  git clone https://github.com/Nandha2403/CrocsWorld.git
 ```
 
 Go to the project directory
-  git clone https://github.com/uzairansari11/spicy-nerve-9354.git
+  git clone https://github.com/Nandha2403/CrocsWorld/tree/master/crocs-world
 
 ```bash
-  cd spicy-nerve-9354
+  cd crocs-world
 ```
 
 Install dependencies
@@ -110,8 +110,6 @@ Install dependencies
   npm i thunk
   npm i json-server
   npm i chakra-ui
-  npm i material-UI
-  npm i material-icon
 ```
 
 Start the server
@@ -123,17 +121,7 @@ Start the server
 
 ## Demo
 
-Link https://spicy-nerve-9354.vercel.app/
-
-## FAQ
-
-<!--#### What is a clone of Aeropostale?-->
-
-<!-- A clone of Aeropostale is a replica or imitation of the popular clothing brand Aeropostale. It may sell similar styles of clothing or try to emulate the overall aesthetic of the brand. -->
-
-<!--#### Is a clone of Aeropostale the same as an official Aeropostale store?-->
-
-<!-- No, a clone of Aeropostale is not an official Aeropostale store. It is a separate business that is not affiliated with the original brand. -->
+Link https://starlit-sprite-58fbc1.netlify.app/
 
 #### Is this website fully Responsive? -->
 
